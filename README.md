@@ -57,13 +57,16 @@ The program defines a class `Demo` with:
 
 ## Program
 ```
-class demo:
+class Demo:
     def __init__(self):
-        self.status="Alive"
+        print("Hello World!")
+
     def __del__(self):
-        print("The object no longer exists")
-a=demo()
-print(a.status)
+        print("Hello from the __del__ method.")
+
+# Create and delete the object
+obj = Demo()
+del obj
 ```
 
 ## 🧪 Output
