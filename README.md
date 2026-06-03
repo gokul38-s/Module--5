@@ -70,7 +70,8 @@ del obj
 ```
 
 ## 🧪 Output
-<img width="964" height="219" alt="image" src="https://github.com/user-attachments/assets/a7b0a93d-60ef-4303-a100-e45895dc50bb" />
+![image](https://github.com/user-attachments/assets/fe8909b3-2c63-4530-a185-5c36adea11d8)
+
 
 
 ## Result
