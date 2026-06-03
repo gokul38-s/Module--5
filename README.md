@@ -1,4 +1,7 @@
 ## Constructors in Python: Welcome Message with Student Name
+## Name : Gokul S
+## Reg No : 212225060070
+
 
 ## 🎯 Aim
 To write a Python program that creates a **Student** class with a **default constructor** and a method to display a welcome message along with the student’s name provided by the user.
@@ -254,7 +257,7 @@ print(d.sub(a,b))
 print(d.Divide(a,b))  
 ```
 ## Output Example
-<img width="997" height="218" alt="image" src="https://github.com/user-attachments/assets/53f83599-5aae-4f0f-bf08-887be99d52cc" />
+![image](https://github.com/user-attachments/assets/b75ce811-4818-4963-b103-e1d19a9e9e94)
 
 ## Result:
 Thus the program demonstrates multiple inheritance by performing basic arithmetic operations — Addition, Subtraction, and Division — using three classes has been executed successfully.
